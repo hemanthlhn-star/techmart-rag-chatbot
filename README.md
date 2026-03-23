@@ -1,5 +1,7 @@
 # TechMart RAG Chatbot 🤖
-
+## 🌐 Live Demo
+👉 **[Try the TechMart AI Assistant here!]
+(https://techmart-rag-chatbot.streamlit.app)**
 A conversational AI chatbot built using 
 Retrieval Augmented Generation (RAG) that answers 
 customer questions about TechMart policies accurately 
